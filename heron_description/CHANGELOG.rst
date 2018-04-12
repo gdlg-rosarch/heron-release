@@ -3,6 +3,12 @@ Changelog for package heron_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+0.2.3 (2018-04-12)
+------------------
+* Added missing sonar link.
+* Added Ceepulse sonar accessory.
+* Contributors: Administrator, Tony Baltovski
+
 0.2.2 (2016-08-03)
 ------------------
 * Updated the UM6 orientation.
